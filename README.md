@@ -9,6 +9,9 @@ This project uses a simulated dataset to explore how data analytics can be appli
 - Clustering of warehouses based on performance metrics
 - Regression model to predict food spoilage
 - Visual insights for logistics optimisation
+  
+<img width="466" alt="Screenshot 2025-04-29 at 14 01 12" src="https://github.com/user-attachments/assets/41d5f3f9-f857-44e7-8aad-6a01e4640b1a" />
+
 
 
 
