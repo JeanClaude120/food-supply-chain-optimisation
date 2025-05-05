@@ -1,5 +1,6 @@
 
-Optimising Food Supply Chains: A Data-Driven Approach to Reducing Waste and Improving Efficiency
+O<img width="407" alt="Screenshot 2025-05-05 at 18 45 55" src="https://github.com/user-attachments/assets/733e3fab-7d65-4503-8473-ad1a802c55ff" />
+ptimising Food Supply Chains: A Data-Driven Approach to Reducing Waste and Improving Efficiency
 
 Project Summary
  
