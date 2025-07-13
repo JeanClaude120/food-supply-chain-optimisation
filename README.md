@@ -70,10 +70,10 @@ data = {
 ### Data analysis
 - Find the Relationship between delivery delay and spoilage percentage
 
-  ```Python
+```Python
 - import seaborn as sns
 import matplotlib.pyplot as plt
-#Correlation heatmap
+- Correlation heatmap
 sns.heatmap(df[['Delivery_Delay_Days', 'Spoilage_Percentage']].corr(), annot=True)
 plt.title("Correlation Between Delay and Spoilage")
 plt.show()
@@ -91,17 +91,15 @@ plt.show()
 ### Key Findings
 
 - There was a Positive correlation (~0.91) between delay and spoilage, which means that as the delivery delay increases, the spoilage also increases.
-
-
-
-
-
-
   
+
+<img width="543" height="460" alt="confusion matrix" src="https://github.com/user-attachments/assets/a051cee8-c140-4d88-a813-912e67ceec4d" />
+
+
 - Regional disparities existed: Edinburgh and London had significantly lower spoilage, while Birmingham and Bristol experienced higher spoilage despite similar delays.
+  
 
-
-
+<img width="586" height="513" alt="Screenshot 2025-07-14 at 00 19 19" src="https://github.com/user-attachments/assets/89218dc4-4e6a-40fd-b3ae-2fad6074e25a" />
 
 
 ### Results and Recommendations
@@ -118,7 +116,7 @@ plt.show()
   - Introduce a predictive model: Spoilage Risk Classifier.
 Goal: Predict whether a shipment is "High Risk" (likely to result in spoilage above a critical threshold, say 70%) before it arrives, using known pre-delivery metrics such as delay forecasts, region, and product type.
 
-
+<img width="708" height="392" alt="Screenshot 2025-07-14 at 00 19 47" src="https://github.com/user-attachments/assets/4dae1a42-78f4-442c-8e48-895f69a227c1" />
 
 
 :) Importance: Allows operational teams to intervene proactively (reroute, repackage, prioritise delivery).
