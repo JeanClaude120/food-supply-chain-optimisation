@@ -1,8 +1,10 @@
-# Optimizing Food Supply Chains: A Data-Driven Approach to Reducing Waste and Improving Efficiency
+# Supply Chain Optimization with Python & Data Science: Reducing Waste in the Food Industry
 
-<img width="407" alt="Screenshot 2025-05-05 at 18 45 55" src="https://github.com/user-attachments/assets/733e3fab-7d65-4503-8473-ad1a802c55ff" />
+<img width="409" height="261" alt="Screenshot 2025-07-13 at 20 04 24" src="https://github.com/user-attachments/assets/b95866fc-c2a5-43bd-a4fa-5bbe62d0a00c" />
 
-Optimizing Food Supply Chains: A Data-Driven Approach to Reducing Waste and Improving Efficiency
+
+
+
 
 Project Summary
  
