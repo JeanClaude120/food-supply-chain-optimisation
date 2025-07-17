@@ -93,7 +93,8 @@ plt.show()
 - There was a Positive correlation (~0.91) between delay and spoilage, which means that as the delivery delay increases, the spoilage also increases.
   
 
-<img width="543" height="460" alt="confusion matrix" src="https://github.com/user-attachments/assets/a051cee8-c140-4d88-a813-912e67ceec4d" />
+
+<img width="555" height="440" alt="Screenshot 2025-07-14 at 00 18 56" src="https://github.com/user-attachments/assets/da2ea5c1-8c9d-40af-a629-28fb2db40f07" />
 
 
 - Regional disparities existed: Edinburgh and London had significantly lower spoilage, while Birmingham and Bristol experienced higher spoilage despite similar delays.
